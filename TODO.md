@@ -1,1 +1,1 @@
-Ensure that make all works with clean pull of repo (ie will set up /bin dir automatically)
+Ensure that `make all` works with clean pull of repo (ie will set up /bin dir automatically)
